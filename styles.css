@@ -2,8 +2,9 @@
 h1,h2,h2{
 	text-align:center;
 }
-#box1{
-	background-color: rgb(204, 204, 204)
+body{
+	background-color: rgb(204, 204, 204);
+	text-decoration-line:none;
 }
 #box2{
 	background-color:white;
