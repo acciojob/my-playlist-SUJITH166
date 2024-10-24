@@ -23,3 +23,13 @@ h1,h2,h2{
 	padding:20px; 
 	border-radius:10px;
 }
+.player_one{
+	background-color: rgb(255, 255, 255);
+		padding:0px; 
+	border-radius:0px;
+}
+.player_two{
+	background-color: rgb(255, 255, 255);
+		padding:0px; 
+	border-radius:0px;
+}
